@@ -1,0 +1,36 @@
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.exe.config
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.exe
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.pdb
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.AssemblyReference.cache
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Form1.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Properties.Resources.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.GenerateResource.cache
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.CoreCompileInputs.cache
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.exe
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.pdb
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.exe.config
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Form2.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Usuario_y_contraseña.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.loginform.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Iniciosesion.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Matriculas.resources
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Informe.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.AssemblyReference.cache
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.SuggestedBindingRedirects.cache
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Form1.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Form2.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Informe.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Iniciosesion.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.loginform.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Matriculas.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Properties.Resources.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Usuario_y_contraseña.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.GenerateResource.cache
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.csproj.CoreCompileInputs.cache
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.exe
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto final, Jp.pdb
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.exe.config
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.exe
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\bin\Debug\Proyecto final, Jp.pdb
+D:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Salir.resources
+E:\Poo2\Proyectos\Proyecto final, Jp\Proyecto final, Jp\obj\Debug\Proyecto_final__Jp.Salir.resources
